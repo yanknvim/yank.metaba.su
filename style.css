@@ -23,7 +23,9 @@ body {
   background: #eeeeee;
   border-radius: 5px;
 
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 a {
